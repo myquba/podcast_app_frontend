@@ -34,7 +34,7 @@ def main():
     """
     <style>
     .reportview-container {
-        background-image: url("https://github.com/myquba/podcast_app_frontend/blob/main/bg.jpg");
+        background-image: url("bg.jpg");
         background-size: cover;
     }
     </style>
