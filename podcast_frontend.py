@@ -23,7 +23,7 @@ def main():
         color: #00008B;
     }
     h2 {
-        color: #FF0000;
+        color: #000000;
     }
     </style>
     """,
